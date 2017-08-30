@@ -8,5 +8,5 @@ COLOUR_CODE = {"AliceBlue": "#f0f8ff", "AntiqueWhite1": "#ffefdb", "AntiqueWhite
 
 colour_name = input("Enter a colour name: ")
 while colour_name != "":
-    print("The code for \"{}\" is {}".format(colour_name, COLOUR_CODE.get(colour_name)))
+    print("The code for } is {}".format(colour_name, COLOUR_CODE.get(colour_name)))
     colour_name = input("Enter a colour name: ")
