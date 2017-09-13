@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="987e4d78-8043-494a-ac74-f9bd33d10335" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_06/box_layout.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_06/box_layout_demo.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_06/squaring.kv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_06/squaring.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -18,6 +16,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Practicals$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1503525144870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/Practicals$files.coverage" NAME="files Coverage Results" MODIFIED="1502232431584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$label_demo.coverage" NAME="label_demo Coverage Results" MODIFIED="1505344095084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1502249245514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/Practicals$assignment_1.coverage" NAME="assignment_1 Coverage Results" MODIFIED="1503354892328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practicals$loops.coverage" NAME="loops Coverage Results" MODIFIED="1501648673639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
@@ -26,16 +25,17 @@
     <SUITE FILE_PATH="coverage/Practicals$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1502247691829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/Practicals$warm_up.coverage" NAME="warm_up Coverage Results" MODIFIED="1503524648880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/Practicals$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1502753939183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/CP1404_Pracs$id_demo.coverage" NAME="id_demo Coverage Results" MODIFIED="1505342214678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$id_demo.coverage" NAME="id_demo Coverage Results" MODIFIED="1505344042884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1502319875126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$clock_demo2.coverage" NAME="clock_demo2 Coverage Results" MODIFIED="1505342255748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1501646166391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
-    <SUITE FILE_PATH="coverage/CP1404_Pracs$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1505342467722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1505344867432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/Practicals$Online_test.coverage" NAME="Online_test Coverage Results" MODIFIED="1503874008092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practicals$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1503529728605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/Practicals$electricity_calculator_2.coverage" NAME="electricity_calculator_2 Coverage Results" MODIFIED="1501647014452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/Practicals$ASCII_table.coverage" NAME="ASCII_table Coverage Results" MODIFIED="1502319942330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/Practicals$get_name.coverage" NAME="get_name Coverage Results" MODIFIED="1502754608680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$simple_animation_demo.coverage" NAME="simple_animation_demo Coverage Results" MODIFIED="1505344132466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$hello.coverage" NAME="hello Coverage Results" MODIFIED="1501633406747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1505341011854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$electricity_calculator_1.coverage" NAME="electricity_calculator_1 Coverage Results" MODIFIED="1501645820044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
@@ -48,16 +48,39 @@
     <SUITE FILE_PATH="coverage/Lab$Lab.coverage" NAME="Lab Coverage Results" MODIFIED="1501632758513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practicals$word_generator.coverage" NAME="word_generator Coverage Results" MODIFIED="1502251365268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/Practicals$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1503354828729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$quick_sum_app.coverage" NAME="quick_sum_app Coverage Results" MODIFIED="1505344109228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1505344145592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$hex_colours.coverage" NAME="hex_colours Coverage Results" MODIFIED="1504068124372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
     <SUITE FILE_PATH="coverage/Practicals$quick_pick.coverage" NAME="quick_pick Coverage Results" MODIFIED="1503531907025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1505343916896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$size_and_position_demo.coverage" NAME="size_and_position_demo Coverage Results" MODIFIED="1505344080559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$sales_bonus.coverage" NAME="sales_bonus Coverage Results" MODIFIED="1501648615498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$popup_demo.coverage" NAME="popup_demo Coverage Results" MODIFIED="1505343283324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/Practicals$word_occurrences.coverage" NAME="word_occurrences Coverage Results" MODIFIED="1504066346262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="box_layout_demo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="squaring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_06/squaring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="squaring.kv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_06/squaring.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="box_layout_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_06/box_layout_demo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -72,21 +95,19 @@
       <file leaf-file-name="box_layout.kv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_06/box_layout.kv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="400">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="squaring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_06/squaring.py">
+      <file leaf-file-name="spinner_demo.kv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KivyDemos/spinner_demo.kv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,8 +115,8 @@
       <file leaf-file-name="popup_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KivyDemos/popup_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-475">
-              <caret line="65" column="15" lean-forward="false" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="15" />
+            <state relative-caret-position="395">
+              <caret line="98" column="21" lean-forward="true" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -104,18 +125,18 @@
       <file leaf-file-name="popup_demo.kv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KivyDemos/popup_demo.kv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="63" column="49" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="63" selection-end-column="49" />
+            <state relative-caret-position="175">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="squaring.kv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_06/squaring.kv">
+      <file leaf-file-name="quick_sum_app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KivyDemos/quick_sum_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="300">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,8 +145,8 @@
       <file leaf-file-name="id_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KivyDemos/id_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="175">
+              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -210,10 +231,10 @@
         <option value="$PROJECT_DIR$/prac_05/word_occurrences.py" />
         <option value="$PROJECT_DIR$/prac_05/hex_colours.py" />
         <option value="$PROJECT_DIR$/prac_05/state_names.py" />
-        <option value="$PROJECT_DIR$/prac_06/squaring.py" />
-        <option value="$PROJECT_DIR$/prac_06/squaring.kv" />
         <option value="$PROJECT_DIR$/prac_06/box_layout.kv" />
         <option value="$PROJECT_DIR$/prac_06/box_layout_demo.py" />
+        <option value="$PROJECT_DIR$/prac_06/squaring.kv" />
+        <option value="$PROJECT_DIR$/prac_06/squaring.py" />
       </list>
     </option>
   </component>
@@ -281,11 +302,6 @@
             <path>
               <item name="CP1404_Pracs" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404_Pracs" type="462c0819:PsiDirectoryNode" />
-              <item name="KivyDemos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP1404_Pracs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP1404_Pracs" type="462c0819:PsiDirectoryNode" />
               <item name="prac_06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -319,26 +335,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.box_layout_demo">
-    <configuration name="box_layout_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lab" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/box_layout_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="clock_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.squaring">
+    <configuration name="label_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -351,12 +349,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Lab" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDemos/clock_demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDemos/label_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="id_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quick_sum_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -369,12 +367,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Lab" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDemos/id_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDemos/quick_sum_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="popup_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="simple_animation_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -387,7 +385,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Lab" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDemos/popup_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDemos/simple_animation_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="spinner_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KivyDemos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDemos/spinner_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,19 +427,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.popup_demo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.box_layout_demo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.id_demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.squaring" />
-      <item index="4" class="java.lang.String" itemvalue="Python.clock_demo2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.label_demo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.quick_sum_app" />
+      <item index="2" class="java.lang.String" itemvalue="Python.simple_animation_demo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.spinner_demo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.squaring" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.box_layout_demo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.popup_demo" />
-        <item index="2" class="java.lang.String" itemvalue="Python.squaring" />
-        <item index="3" class="java.lang.String" itemvalue="Python.clock_demo2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.id_demo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.squaring" />
+        <item index="1" class="java.lang.String" itemvalue="Python.spinner_demo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.simple_animation_demo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.quick_sum_app" />
+        <item index="4" class="java.lang.String" itemvalue="Python.label_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -571,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505340967706</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="completed box_layout_demo.py and box_layout.kv part of prac">
+      <created>1505343973358</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1505343973358</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -589,6 +612,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294606" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -682,7 +706,8 @@
     <MESSAGE value="completed hex_colours prac for week 6" />
     <MESSAGE value="edited hex_colours prac for week 6 to complete" />
     <MESSAGE value="added kivy demos to prac folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="added kivy demos to prac folder" />
+    <MESSAGE value="completed box_layout_demo.py and box_layout.kv part of prac" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed box_layout_demo.py and box_layout.kv part of prac" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -694,43 +719,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_01/sales_bonus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_01/shop_calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_01/electricity_calculator_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_01/electricity_calculator_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_02/for_loop.py" />
-    <entry file="file://$PROJECT_DIR$/prac_02/example.py" />
-    <entry file="file://$PROJECT_DIR$/prac_02/word_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_02/string_formatting_examples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="989">
@@ -962,24 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KivyDemos/id_demo.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KivyDemos/id_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/KivyDemos/clock_demo2.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -998,15 +968,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_06/squaring.kv">
+    <entry file="file://$PROJECT_DIR$/KivyDemos/id_demo.kv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_06/squaring.py">
+    <entry file="file://$PROJECT_DIR$/KivyDemos/id_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyDemos/popup_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="98" column="21" lean-forward="true" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyDemos/size_and_position_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyDemos/size_position.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyDemos/label_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyDemos/popup_demo.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyDemos/simple_animation_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -1016,26 +1040,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KivyDemos/popup_demo.kv">
+    <entry file="file://$PROJECT_DIR$/KivyDemos/spinner_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="63" column="49" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="63" selection-end-column="49" />
+        <state relative-caret-position="275">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KivyDemos/popup_demo.py">
+    <entry file="file://$PROJECT_DIR$/KivyDemos/quick_sum_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-475">
-          <caret line="65" column="15" lean-forward="false" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="15" />
+        <state relative-caret-position="300">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyDemos/spinner_demo.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_06/box_layout.kv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="400">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1047,6 +1079,22 @@
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/squaring.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/squaring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
