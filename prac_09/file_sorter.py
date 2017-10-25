@@ -4,7 +4,7 @@ import shutil
 print("Current directory is", os.getcwd())
 
 #change to Files to Sort
-os.chdir('FilesToSort2')
+os.chdir('FilesToSort')
 print("Current directory is", os.getcwd())
 directory_names = []
 
