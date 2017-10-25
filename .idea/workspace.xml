@@ -1,124 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="987e4d78-8043-494a-ac74-f9bd33d10335" name="Default" comment="completed prac 9">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/chords.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/chords.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/excites.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/excites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/jazz.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/jazz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/jazz.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/playing.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/playing.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/vibe.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/wife.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/wife.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/jazz.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/playing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/Angels from the Realm of Glory.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/AngelsWeHaveHeard.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/Away In A Manger.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/HarkTheHerald.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/JoyToTheWorld.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/Merry Merry Christmas.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/NewbornKing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/O Come Emmanuel.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/O Come Let Us Adore Him (Hillsong).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/O Holy Night.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/O little town of bethlehem.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/OComeAllYeFaithful.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/SilentNight.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/TheFirstNoel.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Christmas/We Three Kings.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Cornerstone.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/GloryToGodForever.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/GodOfThisCity.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/GodOfWonders.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/GreatIsThyFaithfulness.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/HereIAmToWorship.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/HolyHolyHoly.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Hosanna(Highest).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Hosanna.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/HowGreatIsOurGod.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/It'syourblood.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/ItIsWell (oh my soul).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Jesus What a Beautiful Name.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/LoveCameDown.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/LoveTheLord.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/MyHopeIsBuilt.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/MySaviourLives.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Salvation Belongs to Our God.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Salvation.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/ShoutYourFame.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/SoInLoveWithYou.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/TheHeartOfWorship.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Unstoppable Love.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhatCanIDo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhenISurvey(modern).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhenISurvey.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhileWe Sing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/WithUs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/indesciribable.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Special/Isaiah53_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Special/Remember The Lord.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Special/The Lord is King.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/10,000 Reasons (Bless The Lord).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AliveInUs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AllBecauseOfJesus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AllForLove.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Amazing Grace (Traditional).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AmazingGrace(MyChainsAreGone).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/BecauseOfYourLove.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/BlessedBeYourName.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Build your Kingdom Here.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Crown Him (Majesty).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/DesertSong.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/EverlastingGod.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/ForeverReign.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/From The Day.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Glorified.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/GodIsAble.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/GodIsWithUsNow.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/GraceAlone.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Holy holy holy (God with us).TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/HowDeepTheFathersLove.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/HowGreatThouArt.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/InChristAlone.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Jesus Firm Foundation.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Jesus Paid It All.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/JesusMessiah.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Joyful. (The One Who Saves).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Lord I Need You.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Majestic.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Man of Sorrows.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/MightyToSave.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/My Lighthouse.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/NeverOnce.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Oceans (Where Feet May Fail).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Offering.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OneThingRemains.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OpenMyEyes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OpenTheEyesOfMyHeart.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OurGod.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Psalm62.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Still.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Stronger.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TheFirstAndTheLast.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TheGreatnessOfOurGod.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TheHopeOfAllHearts.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/This I Believe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/ThisIsOurGod.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TodayIsTheDay.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Victor'sCrown.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/WeLiftYouUp.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Whom Shall I Fear.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/YouAreGood.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/YoullCome.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/cleanup_files.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/file_sorter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="987e4d78-8043-494a-ac74-f9bd33d10335" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/chords.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/jazz.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/playing.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/playing.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/vibe.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/wife.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Photos/excites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Photos/jazz.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Photos/jazz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Photos/wife.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/jazz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/playing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Docs/test.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -184,6 +80,7 @@
     <SUITE FILE_PATH="coverage/CP1404_Pracs$quick_sum_app.coverage" NAME="quick_sum_app Coverage Results" MODIFIED="1505354570956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$miles_to_km.coverage" NAME="miles_to_km Coverage Results" MODIFIED="1505355064851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/Practicals$quick_pick.coverage" NAME="quick_pick Coverage Results" MODIFIED="1503531907025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$file_sorter.coverage" NAME="file_sorter Coverage Results" MODIFIED="1508898504330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$popup_demo.coverage" NAME="popup_demo Coverage Results" MODIFIED="1505346398298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1505353363373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$taxi_simulator.coverage" NAME="taxi_simulator Coverage Results" MODIFIED="1507158008956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_8" />
@@ -195,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding>
                 <element signature="e#62#71#0" expanded="true" />
               </folding>
@@ -206,8 +103,8 @@
       <file leaf-file-name="file_sorter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prac_09/file_sorter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -389,25 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cleanup_files">
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lab" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.file_sorter">
     <configuration name="cleanup_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,6 +301,24 @@
       <module name="Lab" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/cleanup_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="file_sorter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/file_sorter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,19 +378,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test 2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.squaring" />
-      <item index="3" class="java.lang.String" itemvalue="Python.name_loop" />
-      <item index="4" class="java.lang.String" itemvalue="Python.cleanup_files" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test 2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.squaring" />
+      <item index="2" class="java.lang.String" itemvalue="Python.name_loop" />
+      <item index="3" class="java.lang.String" itemvalue="Python.cleanup_files" />
+      <item index="4" class="java.lang.String" itemvalue="Python.file_sorter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cleanup_files" />
-        <item index="1" class="java.lang.String" itemvalue="Python.name_loop" />
-        <item index="2" class="java.lang.String" itemvalue="Python.squaring" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test 2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.file_sorter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.cleanup_files" />
+        <item index="2" class="java.lang.String" itemvalue="Python.name_loop" />
+        <item index="3" class="java.lang.String" itemvalue="Python.squaring" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test 2" />
       </list>
     </recent_temporary>
   </component>
@@ -697,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508898267105</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="completed prac 9">
+      <created>1508898419442</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1508898419442</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -712,7 +616,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2160" height="1384" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -722,7 +625,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24979253" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32780084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18326886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18326886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24976076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39834026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -819,7 +722,8 @@
     <MESSAGE value="completed all pracs" />
     <MESSAGE value="completed all pracs for prac 07" />
     <MESSAGE value="completed all of prac 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed all of prac 8" />
+    <MESSAGE value="completed prac 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed prac 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1188,7 +1092,7 @@
     <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
           <folding>
             <element signature="e#62#71#0" expanded="true" />
           </folding>
@@ -1197,8 +1101,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/file_sorter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
