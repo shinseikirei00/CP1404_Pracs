@@ -34,7 +34,7 @@ def do_it(n):
     return n % 2 + do_it(n - 1)
 
 
-print(do_it(5))
+print(do_it(4))
 
 
 def do_something(n):
