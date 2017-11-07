@@ -21,4 +21,4 @@ while state != "":
         print("Invalid short state")
     state = input("Enter short state: ").upper()
 
-
+print("Finished")
