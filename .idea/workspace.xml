@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="987e4d78-8043-494a-ac74-f9bd33d10335" name="Default" comment="completed all of prac 10">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/chords.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/chords.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/excites.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/excites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/jazz.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/jazz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/jazz.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/playing.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/playing.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/vibe.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/wife.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/wife.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/flaskdemo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/jazz.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/playing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/.idea/untitled.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask/untitled.py" />
+    <list default="true" id="987e4d78-8043-494a-ac74-f9bd33d10335" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/Car.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/silver_service_taxi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/silver_service_taxi_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/taxi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/taxi_simulator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/taxi_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/unreliable_car _test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_08/unreliable_car.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_10/flask/flaskdemo" afterPath="$PROJECT_DIR$/prac_10/flask/flaskdemo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_10/recursion.py" afterPath="$PROJECT_DIR$/prac_10/recursion.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +51,7 @@
     <SUITE FILE_PATH="coverage/CP1404_Pracs$test_2.coverage" NAME="test 2 Coverage Results" MODIFIED="1507953091974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practicals$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1503531899689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$used_car.coverage" NAME="used_car Coverage Results" MODIFIED="1505953332713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/CP1404_Pracs$testing.coverage" NAME="testing Coverage Results" MODIFIED="1508973174530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/CP1404_Pracs$testing.coverage" NAME="testing Coverage Results" MODIFIED="1508975692592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$wiki.coverage" NAME="wiki Coverage Results" MODIFIED="1508973233455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
     <SUITE FILE_PATH="coverage/Practicals$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1503354828729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
     <SUITE FILE_PATH="coverage/CP1404_Pracs$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1505346413728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KivyDemos" />
@@ -104,7 +89,20 @@
     <SUITE FILE_PATH="coverage/Practicals$word_occurrences.coverage" NAME="word_occurrences Coverage Results" MODIFIED="1504066346262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="testing.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_10/testing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+              <folding>
+                <element signature="e#2368#2382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -209,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Changed Files">
           <expand>
@@ -244,13 +243,12 @@
             <path>
               <item name="CP1404_Pracs" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404_Pracs" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_10" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.untitled">
+  <component name="RunManager" selected="Python.testing">
     <configuration name="file_sorter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,13 +376,19 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.untitled" />
-        <item index="1" class="java.lang.String" itemvalue="Python.wiki" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testing" />
+        <item index="0" class="java.lang.String" itemvalue="Python.testing" />
+        <item index="1" class="java.lang.String" itemvalue="Python.untitled" />
+        <item index="2" class="java.lang.String" itemvalue="Python.wiki" />
         <item index="3" class="java.lang.String" itemvalue="Python.number_of_blocks" />
         <item index="4" class="java.lang.String" itemvalue="Python.file_sorter" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SFStoredExecutionPersistentComponent">
+    <executions>
+      <execution name="Default" sourceToExecute="" />
+    </executions>
+    <lastSelectedExecutionName>Default</lastSelectedExecutionName>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -628,7 +632,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508944898994</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="completed all of prac 10">
+      <created>1508973792601</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1508973792601</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -649,21 +660,21 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2160" height="1384" extended-state="0" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882503" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294606" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24936602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28148773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32780084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19197293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28148773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271344" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20067698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24976076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39834026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1033,7 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,7 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1049,9 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,19 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="e#62#71#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_10/testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
-          <folding>
-            <element signature="e#2368#2382#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1079,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,7 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,7 +1086,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_10/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+          <folding>
+            <element signature="e#2368#2382#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
